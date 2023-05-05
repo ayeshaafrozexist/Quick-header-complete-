@@ -1,0 +1,6 @@
+color 
+green 5CC9A7
+blue 0084FF
+pink F05666
+nvbl 0F2656
+red F15767
